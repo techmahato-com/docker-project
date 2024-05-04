@@ -1,7 +1,7 @@
 Project 7 : Setup 5 Nginx Web Server Docker Container on Custom Port with Nginx Official Docker Image but Same Custom Web Page.
 # Step 1: Create a Folder and Navigate to it
-- mkdir ~/nginx_html
-- cd ~/nginx_html
+    mkdir ~/nginx_html
+    cd ~/nginx_html
 
 # Step 2: Create the index.html File
 - vi index.html
