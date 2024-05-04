@@ -56,7 +56,9 @@ docker cp /path/to/index.html nginx-container:/usr/share/nginx/html/index.html
 
 # Step 9: Verify the File Copy
 docker exec -it nginx-container /bin/bash
+
 cd /usr/share/nginx/html/
+
 ls
 
 GOOD NEWS: If you want to become successful Cloud & DevOps Engineer, Visit https://devops.techmahato.com
