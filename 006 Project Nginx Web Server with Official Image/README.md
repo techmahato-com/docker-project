@@ -37,6 +37,7 @@ docker run -d -p 8080:8080 --name nginx-container -v /path/to/custom.conf:/etc/n
 
 # Step 7: Prepare the index.html File
 vi index.html
+
     <!DOCTYPE html>
     <html lang="en">
     <head>
