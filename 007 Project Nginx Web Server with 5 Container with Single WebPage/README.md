@@ -5,20 +5,20 @@ Project 7 : Setup 5 Nginx Web Server Docker Container on Custom Port with Nginx 
 
 # Step 2: Create the index.html File
     vi index.html
-    
 
-        <!DOCTYPE html>
-        <html lang="en">
-        <head>
-            <meta charset="UTF-8">
-            <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>Tech Mahato - DevOps Training</title>
-        </head>
-        <body>
-            <h1>Welcome to Tech Mahato DevOps Training</h1>
-            <p>Tech Mahato India #1 Cloud & DevOps Training YouTube Channel in Hindi.</p>
-        </body>
-        </html>
+
+            <!DOCTYPE html>
+            <html lang="en">
+            <head>
+                <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <title>Tech Mahato - DevOps Training</title>
+            </head>
+            <body>
+                <h1>Welcome to Tech Mahato DevOps Training</h1>
+                <p>Tech Mahato India #1 Cloud & DevOps Training YouTube Channel in Hindi.</p>
+            </body>
+            </html>
 
 # Step 3: Pull the Nginx Docker Image
     docker pull nginx:latest
