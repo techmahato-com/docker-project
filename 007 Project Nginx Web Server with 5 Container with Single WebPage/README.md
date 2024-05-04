@@ -4,7 +4,7 @@ Project 7 : Setup 5 Nginx Web Server Docker Container on Custom Port with Nginx 
     cd ~/nginx_html
 
 # Step 2: Create the index.html File
-- vi index.html
+ vi index.html
 
         <!DOCTYPE html>
         <html lang="en">
