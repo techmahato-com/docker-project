@@ -9,6 +9,10 @@ docker run -d --name centos7 -p 80:80 --privileged=true centos:7 /usr/sbin/init
 
 # Step 3: Install HTTPD (Apache)
 ## For CentOS:
+docker ps 
+
+docker exec -it <Container-ID> /bin/bash
+ 
 yum install httpd -y
 
 
