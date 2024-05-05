@@ -3,7 +3,7 @@
 docker pull ubuntu:20.04
 
 # Step 2: Create a Docker Container
-docker run -it --name apache-container ubuntu:20.04 /bin/bash 
+docker run -it --name apache-container -p 80:80 ubuntu:20.04 /bin/bash 
 ## This command will start a new container in interactive mode (-it), name it as apache-container, and execute the /bin/bash shell inside the container.
 
 # Step 3: Install Apache
