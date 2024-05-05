@@ -8,6 +8,7 @@ docker run -it --name apache-container ubuntu:20.04 /bin/bash
 
 # Step 3: Install Apache
 apt update
+
 apt install -y apache2
 
 # Step 4: Start Apache Service
