@@ -15,7 +15,9 @@ apt install -y apache2
 service apache2 start
 
 # Step 5: Create a Custom Web Page
-vi /var/www/html/index.html
+    rm /var/www/html/index.html
+
+    vi /var/www/html/index.html
 
     <!DOCTYPE html>
     <html lang="en">
