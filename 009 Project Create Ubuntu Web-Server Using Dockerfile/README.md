@@ -42,3 +42,6 @@ Once the Docker image is built, run the Docker container using the following com
 This command will run the Docker container in detached mode (-d), mapping port 80 of the host to port 80 of the container (-p 80:80). The container will be started using the my-apache-image image we built earlier.
 
 Now you have a Docker container running an Apache server serving the website content from the cloned directory. You can access the website by visiting http://localhost/sample-web/ in your web browser. If you're running Docker on a remote server, replace localhost with the IP address or domain name of your server.
+
+'''diff
+Participate **100 Day Challenge || Zero to Job || Cloud Engineer || Visit https://techmahato.com''' 
