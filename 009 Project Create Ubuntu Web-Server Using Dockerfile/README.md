@@ -50,8 +50,9 @@ Now you have a Docker container running an Apache server serving the website con
  
 🟦🟦🟦🟦🟦🟦 GOOD NEWS 🟦🟦🟦🟦🟦🟦🟦
 
-Participate **100 Day Challenge || Zero to Job || Cloud Engineer ||*** 
-Visit https://cloud.techmahato.com
+Participate **100 Day Challenge || Zero to Job || Cloud Engineer ||** 
+
+More Detailes: Visit https://cloud.techmahato.com
 
 ```diff
 + AWS Cloud Engineer is a trending skill for 2024 
