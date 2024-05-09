@@ -43,12 +43,9 @@ This command will run the Docker container in detached mode (-d), mapping port 8
 
 Now you have a Docker container running an Apache server serving the website content from the cloned directory. You can access the website by visiting http://localhost/sample-web/ in your web browser. If you're running Docker on a remote server, replace localhost with the IP address or domain name of your server.
 
-'''diff
- Participate **100 Day Challenge || Zero to Job || Cloud Engineer || Visit https://techmahato.com
- ''' 
 
  
-🟦🟦🟦🟦🟦🟦 GOOD NEWS 🟦🟦🟦🟦🟦🟦🟦
+# 🟦🟦🟦🟦🟦🟦 GOOD NEWS 🟦🟦🟦🟦🟦🟦🟦
 
 Participate **100 Day Challenge || Zero to Job || Cloud Engineer ||** 
 
