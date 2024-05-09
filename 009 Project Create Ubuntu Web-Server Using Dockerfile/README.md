@@ -2,26 +2,26 @@ Step 1: Create a Dockerfile
 - Open a text editor or IDE of your choice.
 - Create a new file named Dockerfile.
 - Open the Dockerfile and paste the following content into it:
-    '# Use the Ubuntu 20.04 base image
-    FROM ubuntu:20.04
+        '# Use the Ubuntu 20.04 base image
+        FROM ubuntu:20.04
 
-    '# Set environment variable to avoid interactive prompts during package installation
-    ENV DEBIAN_FRONTEND=noninteractive
+        '# Set environment variable to avoid interactive prompts during package installation
+        ENV DEBIAN_FRONTEND=noninteractive
 
-    '# Install necessary packages - apache, curl, git
-    RUN apt-get update && apt-get install -y \
-        apache2 \
-        curl \
-        git
+        '# Install necessary packages - apache, curl, git
+        RUN apt-get update && apt-get install -y \
+            apache2 \
+            curl \
+            git
 
-    '# Clone the website source code from GitHub into the default Apache directory
-    RUN git clone https://github.com/techmahato-com/sample-web.git /var/www/html/
+        '# Clone the website source code from GitHub into the default Apache directory
+        RUN git clone https://github.com/techmahato-com/sample-web.git /var/www/html/
 
-    '# Expose port 80 for Apache
-    EXPOSE 80
+        '# Expose port 80 for Apache
+        EXPOSE 80
 
-    '# Start Apache service
-    CMD ["apache2ctl", "-D", "FOREGROUND"]
+        '# Start Apache service
+        CMD ["apache2ctl", "-D", "FOREGROUND"]
 
 - Save the 'Dockerfile'
 
