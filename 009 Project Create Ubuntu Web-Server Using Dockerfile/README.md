@@ -1,4 +1,6 @@
-**Step 1: Create a Dockerfile**
+# **009 Project Create Ubuntu Web-Server Using Dockerfile**
+
+# Step 1: Create a Dockerfile**
 - Open a text editor or IDE of your choice.
 - Create a new file named Dockerfile.
 - Open the Dockerfile and paste the following content into it:
@@ -25,14 +27,14 @@
 
 - Save the 'Dockerfile'
 
-Step 2: Build the Docker image
+# Step 2: Build the Docker image
 
 - Open a terminal or command prompt.
 - Navigate to the directory where the Dockerfile is located.
 - Run the following command to build the Docker image:
     docker build -t my-apache-image .
 
-Step 3: Run the Docker container
+# Step 3: Run the Docker container
 
 Once the Docker image is built, run the Docker container using the following command:
     docker run -d -p 80:80 my-apache-image
