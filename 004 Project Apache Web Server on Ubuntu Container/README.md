@@ -37,3 +37,13 @@ curl ifconfig.me
 
 # Once you have the public IP address, you can access your custom web page by entering the IP address in a web browser:
 http://your_public_ip_address
+
+# 🟦🟦🟦🟦🟦🟦 GOOD NEWS 🟦🟦🟦🟦🟦🟦🟦
+
+# Participate **100 Day Challenge || Zero to Job || Cloud Engineer ||** 
+
+# More Detailes: Visit https://cloud.techmahato.com
+
+```diff
++ AWS Cloud Engineer is a trending skill for 2024 
+```

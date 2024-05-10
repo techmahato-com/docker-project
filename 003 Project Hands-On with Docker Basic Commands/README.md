@@ -65,3 +65,13 @@ docker image inspect <image_name>
 
 # How to execute a command inside a running container?
 docker exec <container_id> <command>
+
+# 🟦🟦🟦🟦🟦🟦 GOOD NEWS 🟦🟦🟦🟦🟦🟦🟦
+
+# Participate **100 Day Challenge || Zero to Job || Cloud Engineer ||** 
+
+# More Detailes: Visit https://cloud.techmahato.com
+
+```diff
++ AWS Cloud Engineer is a trending skill for 2024 
+```

@@ -61,6 +61,15 @@ cd /usr/share/nginx/html/
 
 ls
 
-GOOD NEWS: If you want to become successful Cloud & DevOps Engineer, Visit https://devops.techmahato.com
+# 🟦🟦🟦🟦🟦🟦 GOOD NEWS 🟦🟦🟦🟦🟦🟦🟦
+
+# Participate **100 Day Challenge || Zero to Job || Cloud Engineer ||** 
+
+# More Detailes: Visit https://cloud.techmahato.com
+
+```diff
++ AWS Cloud Engineer is a trending skill for 2024 
+```
+
 
 

@@ -41,5 +41,14 @@ curl ifconfig.me
 
 # Final Step: Once you have the public IP address, you can access your custom web page by entering the IP address followed by the custom port in a web browser:
 
-Good News: Know more about AWS Cloud & DevOps Engineer Pro Visit https://devops.techmahato.com
+# 🟦🟦🟦🟦🟦🟦 GOOD NEWS 🟦🟦🟦🟦🟦🟦🟦
+
+# Participate **100 Day Challenge || Zero to Job || Cloud Engineer ||** 
+
+# More Detailes: Visit https://cloud.techmahato.com
+
+```diff
++ AWS Cloud Engineer is a trending skill for 2024 
+```
+
 

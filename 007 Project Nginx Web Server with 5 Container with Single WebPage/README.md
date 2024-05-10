@@ -49,4 +49,13 @@ Notes:
 # Step 6: Delete the Docker Containers (Optional)
     docker rm -f nginx-container1 nginx-container2 nginx-container3 nginx-container4 nginx-container5
 
-GOOD NEWS: If you want to become successful Cloud & DevOps Engineer, Visit https://devops.techmahato.com
+# 🟦🟦🟦🟦🟦🟦 GOOD NEWS 🟦🟦🟦🟦🟦🟦🟦
+
+# Participate **100 Day Challenge || Zero to Job || Cloud Engineer ||** 
+
+# More Detailes: Visit https://cloud.techmahato.com
+
+```diff
++ AWS Cloud Engineer is a trending skill for 2024 
+```
+
