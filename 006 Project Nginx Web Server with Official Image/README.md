@@ -25,6 +25,7 @@ You can also view the default HTML file served by Nginx:
 
 # Step 5: Customize Nginx Configuration (Optional)
 vi custom.conf
+
     server {
         listen 8080;
         server_name localhost;
@@ -34,6 +35,7 @@ vi custom.conf
             index index.html;
         }
     }
+    
 # Step 6: Mount Custom Configuration
 docker run -d -p 8080:8080 --name nginx-container -v /path/to/custom.conf:/etc/nginx/conf.d/custom.conf:ro nginx:latest
 
