@@ -21,7 +21,3 @@ Ask Arbind Sir | WhatsApp 7003967266
 # More Detailes: Visit https://devops.techmahato.com
 
 
-```diff
-+ AWS Cloud Engineer is a trending skill for 2024 
-
-```
