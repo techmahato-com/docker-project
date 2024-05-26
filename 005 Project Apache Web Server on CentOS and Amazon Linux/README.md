@@ -1,7 +1,7 @@
 # Project 5 : Setup HTTPD Web Server Docker Container with Custom Page on CentOS or Amazon Linux 2 and Access Through Public IP Custom Port.
 
 # Step 1: Pull the CentOS7
-docker pull centos:7
+  docker pull centos:7
 
 
 # Step 2: Create a Docker Container
@@ -9,15 +9,12 @@ docker run -d --name centos7 -p 80:80 --privileged=true centos:7 /usr/sbin/init
 
 # Step 3: Install HTTPD (Apache)
 ## For CentOS:
-docker ps 
 
-docker exec -it <Container-ID> /bin/bash
- 
-yum install httpd -y
+  yum install httpd -y
 
 
 # Step 4: Start HTTPD Service
-systemctl start httpd
+  systemctl start httpd
 
 # Step 5: Create a Custom Web Page
 vi /var/www/html/index.html
