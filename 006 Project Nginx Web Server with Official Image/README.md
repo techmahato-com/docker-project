@@ -15,7 +15,9 @@ Notes: 8080 port should be open from Security Group.
 
 # Step 4: Verify Nginx Configuration (Optional)
 docker exec -it nginx-container /bin/bash
+
 cd /etc/nginx/
+
 ls
 
 ## You can also view the default HTML file served by Nginx:
