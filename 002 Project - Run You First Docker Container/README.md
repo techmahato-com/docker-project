@@ -10,12 +10,11 @@ Commands to Run Apache Web Server
 Hit Public IP on Browser. Make sure httpd 80 & 443 port should be open.
 
 
-# 🟦🟦🟦🟦🟦🟦 GOOD NEWS 🟦🟦🟦🟦🟦🟦🟦
+## 🟦🟦🟦🟦🟦🟦 TECH MAHATO || Search on YouTube 🟦🟦🟦🟦🟦🟦🟦
+## Participate Zero to Job 100 Day Challenge | Cloud & DevOps Pro. Personal Training |
+Ask Arbind Sir | WhatsApp 8100011825 || More Detailes: Visit https://devops.techmahato.com
 
-# Participate **100 Day Challenge || Zero to Job || Cloud Engineer ||** 
-
-# More Detailes: Visit https://cloud.techmahato.com
 
 ```diff
-+ AWS Cloud Engineer is a trending skill for 2024 
++ AWS Cloud & DevOps Engineer is a trending skill for 2024-25 
 ```
