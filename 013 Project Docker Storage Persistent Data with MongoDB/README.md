@@ -41,7 +41,7 @@ You should see the document with {name: "John", age: 30}.
 
 
 ## 🟦🟦🟦🟦 TECH MAHATO || Search on YouTube 🟦🟦🟦🟦
-## Participate 100 Day Challenge & Win Rs. 5000/- Cash | Cloud & DevOps Pro. Personal Training |
+### Participate Cloud & DevOps Pro. 100 Day Challenge & Win Rs. 5000/- Cash |
 Ask Arbind Sir || WhatsApp 8100011825 || More Detailes: Visit https://devops.techmahato.com
 
 
