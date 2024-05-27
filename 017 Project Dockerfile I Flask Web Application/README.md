@@ -24,26 +24,27 @@ In the app directory, create a simple Flask application.
     vi app/__init__.py
 
 .
-        from flask import Flask
+    from flask import Flask
 
-        app = Flask(__name__)
+    app = Flask(__name__)
 
-        from app import views
+    from app import views
 
 .
     vi app/views.py
 .    
 
-        from app import app
+    from app import app
 
-        @app.route('/')
-        def index():
-            return 'Hello, Docker!'
+    @app.route('/')
+    def index():
+        return 'Hello, Docker!'
 
 # Step 3: Define Dependencies
 Create a requirements.txt file listing the dependencies for the Flask application.
 
     vi requirements.txt
+.    
     
     Flask==2.0.2
 
@@ -52,6 +53,7 @@ Create a requirements.txt file listing the dependencies for the Flask applicatio
 Create a Dockerfile to define the Docker image build process.
 
     vi Dockerfile
+.    
         # Use official Python image as base image
         FROM python:3.9
 
