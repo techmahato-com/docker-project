@@ -55,6 +55,7 @@ Create a Dockerfile to define the Docker image build process.
 
     vi Dockerfile
 .    
+
         # Use official Python image as base image
         FROM python:3.9
 
