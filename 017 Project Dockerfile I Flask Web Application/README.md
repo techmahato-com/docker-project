@@ -19,7 +19,7 @@ In the app directory, create a simple Flask application.
 
     cd flask-app
 
-
+.
 
     vi app/__init__.py
 
