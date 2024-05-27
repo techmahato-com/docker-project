@@ -24,6 +24,7 @@ In the app directory, create a simple Flask application.
     vi app/__init__.py
 
 .
+
     from flask import Flask
 
     app = Flask(__name__)
