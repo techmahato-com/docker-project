@@ -18,23 +18,25 @@ Create the following directory structure:
 In the app directory, create a simple Flask application.
 
     cd flask-app
-    
+
+
     vi app/__init__.py
 
-    from flask import Flask
 
-    app = Flask(__name__)
+        from flask import Flask
 
-    from app import views
+        app = Flask(__name__)
+
+        from app import views
 
 
     vi app/views.py
 
-    from app import app
+        from app import app
 
-    @app.route('/')
-    def index():
-        return 'Hello, Docker!'
+        @app.route('/')
+        def index():
+            return 'Hello, Docker!'
 
 # Step 3: Define Dependencies
 Create a requirements.txt file listing the dependencies for the Flask application.
