@@ -92,7 +92,7 @@ Open a web browser and visit http://localhost:5000 to see the Flask application 
 
 
 # 🟦🟦🟦🟦🟦🟦 GOOD NEWS 🟦🟦🟦🟦🟦🟦🟦
-# Participate Zero to Job | 100 Day Challenge | Cloud & DevOps Pro. | Personal Training |
+# Participate Zero to Job 100 Day Challenge | Cloud & DevOps Pro. Personal Training |
 Ask Arbind Sir | WhatsApp 7003967266
 # More Detailes: Visit https://devops.techmahato.com
 
