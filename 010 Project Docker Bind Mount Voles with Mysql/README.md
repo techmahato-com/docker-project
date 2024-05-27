@@ -58,14 +58,15 @@ You should see the testdb database that you created earlier.
     exit
 
 
+## 🟦🟦🟦🟦 TECH MAHATO || Search on YouTube 🟦🟦🟦🟦
+## Participate 100 Day Challenge & Win Rs. 5000/- Cash | Cloud & DevOps Pro. Personal Training |
+Ask Arbind Sir || WhatsApp 8100011825 || More Detailes: Visit https://devops.techmahato.com
+
+
+```diff
++ AWS Cloud & DevOps Engineer is a trending skill for 2024-25 
 ```
-
-# 🟦🟦🟦🟦🟦🟦 GOOD NEWS 🟦🟦🟦🟦🟦🟦🟦
-
-# Participate Zero to Job | 100 Day Challenge | Cloud & DevOps Pro. | Personal Training |
-Ask Arbind Sir | WhatsApp 7003967266
-# More Detailes: Visit https://devops.techmahato.com
-
+Know More About Future of Cloud & DevOps | Visit: https://podcast.techmahato.com
 
 
 
