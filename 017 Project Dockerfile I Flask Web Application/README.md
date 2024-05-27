@@ -16,7 +16,9 @@ Create the following directory structure:
 
 # Step 2: Write Flask Application Code
 In the app directory, create a simple Flask application.
+
     cd flask-app
+    
     vi app/__init__.py
 
     from flask import Flask
