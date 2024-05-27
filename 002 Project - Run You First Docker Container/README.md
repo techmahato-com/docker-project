@@ -17,7 +17,7 @@ Ask Arbind Sir || WhatsApp 8100011825 || More Detailes: Visit https://devops.tec
 
 ```diff
 + AWS Cloud & DevOps Engineer is a trending skill for 2024-25 
-
-Know More About Future of CLoud & DevOps | Visit: https://podcast.techmahato.com
 ```
+Know More About Future of CLoud & DevOps | Visit: https://podcast.techmahato.com
+
 
