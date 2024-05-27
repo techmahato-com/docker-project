@@ -23,15 +23,16 @@ In the app directory, create a simple Flask application.
 
     vi app/__init__.py
 
-
+.
         from flask import Flask
 
         app = Flask(__name__)
 
         from app import views
 
-
+.
     vi app/views.py
+.    
 
         from app import app
 
