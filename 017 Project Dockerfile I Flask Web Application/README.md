@@ -3,15 +3,16 @@ This project provides hands-on experience with creating a Dockerfile for a Flask
 
 # Step 1: Set Up Project Structure
 Create the following directory structure:
-    flask-app/
-    │
-    ├── app/
-    │   ├── __init__.py
-    │   └── views.py
-    │
-    ├── Dockerfile
-    ├── requirements.txt
-    └── README.md
+
+        flask-app/
+        │
+        ├── app/
+        │   ├── __init__.py
+        │   └── views.py
+        │
+        ├── Dockerfile
+        ├── requirements.txt
+        └── README.md
 
 # Step 2: Write Flask Application Code
 In the app directory, create a simple Flask application.
