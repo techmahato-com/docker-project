@@ -23,17 +23,19 @@ Create Application Files
 
     vi app/index.js
 
-        const express = require('express');
-        const app = express();
+Paste below code 
 
-        app.get('/', (req, res) => {
-        res.send('Hello, Docker!');
-        });
+    const express = require('express');
+    const app = express();
 
-        const port = 3000;
-        app.listen(port, () => {
-        console.log(`App running on http://localhost:${port}`);
-        });
+    app.get('/', (req, res) => {
+    res.send('Hello, Docker!');
+    });
+
+    const port = 3000;
+    app.listen(port, () => {
+    console.log(`App running on http://localhost:${port}`);
+    });
 
 
 # Step 3: Define Dependencies
@@ -41,19 +43,20 @@ Create a package.json file listing the dependencies for the Node.js application.
 
     vi package.json
 
+Paste below code
 
-        {
-        "name": "node-app",
-        "version": "1.0.0",
-        "description": "A simple Node.js app",
-        "main": "app/index.js",
-        "scripts": {
-            "start": "node app/index.js"
-        },
-        "dependencies": {
-            "express": "^4.17.1"
-        }
-        }
+    {
+    "name": "node-app",
+    "version": "1.0.0",
+    "description": "A simple Node.js app",
+    "main": "app/index.js",
+    "scripts": {
+        "start": "node app/index.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+    }
 
 # Step 4: Write Dockerfile
 Create a Dockerfile to define the Docker image build process.
