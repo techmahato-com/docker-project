@@ -79,6 +79,7 @@ Create a Dockerfile to define the Docker image build process.
 
 # Step 5: Build Docker Image
 Open a terminal, navigate to the project directory, and build the Docker image.
+    
     docker build -t flask-app .
 
 # Step 6: Run Docker Container
